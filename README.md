@@ -83,5 +83,5 @@ my-wiki/
 
 ## 更多信息
 
-- 基于 [Karpathy llm-wiki](https://github.com/karpathy/llm-wiki) 模式
+- 基于 [Karpathy llm-wiki](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f) 模式
 - 适配 Obsidian 双向链接语法
